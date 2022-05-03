@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+#editor {
+  padding: 8px;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
